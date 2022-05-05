@@ -1,0 +1,16 @@
+JUSTIFY: Siempre que se vea esta propiedad se refiera a alinear el contenido de manera horizontal
+
+ALING: Con esta propiedad siempre hara que el contenido se alinea de manera vertical
+
+PLACE: Esta propiedad es una conbinación de ambas, de justify y aling, alineación vertical y horizontal.
+
+KEYWORDS ESPECIALES
+fr: Es una unidad especial de medida para darle ancho o alto a filas y columnas, 1fr representa representa una fraccion total de filas y columnas.
+
+min-content: Ajusta el ancho de la celda lo minimo posible sin romper el contenido.
+
+max-content: ajusta el ancho de la celda lo maximo posible para mostar su contenido
+
+auto-fill: agrega columnas "fantasma" que rellenan el espacio sobrante del contenedor
+
+auto-fit: ensanchan las columnas que ocupen todo el espacio del contenedor
